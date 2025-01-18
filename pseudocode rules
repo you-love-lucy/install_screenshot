@@ -1,0 +1,7 @@
+Five rules of Pseudocode
+1) Use "start" and "stop" at the beginning and end of program.
+2) Indent program statements, and keep them on one line if possible-- if not, indent
+  the following lines.
+3) Begin statements with lowercase letters.
+4) Do not use punctuation at the end of a statement.
+5) Each statement should perform one action.
